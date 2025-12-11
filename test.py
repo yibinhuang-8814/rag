@@ -3,4 +3,10 @@ print("hello world")
 def sayHello():
     print("hello world")
 
-sayHello()
+def main():
+    sayHello()
+
+
+if __name__ == '__main__':
+
+    main()
